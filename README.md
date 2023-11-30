@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ##  Informations détaillées
 
 *  **Nom** : Bailleux Thomas
-*  **Âge** : 29
+*  **Âge** : 31
 *  **Vie à** : Charleroi
 *  **Stack** : PHP - SQL - Javascript - REACT - Bootstrap - SASS 
 *  **Université** : Non.
