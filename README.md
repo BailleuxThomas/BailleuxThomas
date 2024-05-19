@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 *  **Stack** : PHP - SQL - Javascript - REACT - Bootstrap - SASS 
 *  **Université** : Non.
 
-##  Curiosités sur moi
-* J'ai commencé à coder en utilisant **Php sous Nuked Klan** à l'âge de 12 - 13 ans , en modifiant les petits addons jusqu'à crée le mien, qui était une bannière de **Tournoi** 
-* Puis j'ai suivi une formation **Becode** à Charleroi, qui m'a énormément apportés dans la manière de penser, construire toujours avec un but de réussir.
-* J'aime par dessus tout aider les gens.
+##  Quelques lignes sur moi
+* J'ai commencé à coder en utilisant **Php sous Nuked Klan** à l'âge de 12 - 13 ans en modifiant les petits addons jusqu'à créer le mien qui était une bannière de **Tournoi** 
+* J'ai suivi une formation **Becode** à Charleroi, qui m'a énormément apporté dans la manière de procéder et de construire.
+  
 
 
 
