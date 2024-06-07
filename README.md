@@ -42,16 +42,19 @@ Here are some ideas to get you started:
 * J'ai commencé à coder en utilisant **Php sous Nuked Klan** à l'âge de 12 - 13 ans en modifiant les petits addons jusqu'à créer le mien qui était une bannière de **Tournoi** 
 * J'ai suivi une formation **Becode** à Charleroi, qui m'a énormément apporté dans la manière de procéder et de construire.
     
-    ---
+---
+
 <div>
-  <h4>👨🏻‍💻 GitHub stats</h4>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=mayur091193&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bailleuxthomas&layout=compact" />
-</div>
-    ---    
- <div>
-  <h4>🏆 Github Trophy</h4>
+  <h4>🏆 Github Profile Trophy</h4>
   <img src="https://github-profile-trophy.vercel.app/?username=bailleuxthomas&column=7"/>
 </div>
 
-  ---
+---
+
+<div>
+  <h4>👨🏻‍💻 GitHub Usage stats</h4>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=bailleuxthomas&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bailleuxthomas&layout=compact" />
+</div>
+
+---
