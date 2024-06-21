@@ -8,7 +8,7 @@
 - ✈️ Aime voyager
 - 📫 Mail: thomasbailleux2@gmail.com
 - 🔗 https://bailleuxthomas.com
-- 🙏 Follow: https://github.com/BailleuxThomas
+- 🙏 Follow: https://www.linkedin.com/in/bailleuxthomas-dev/
             
 
  ## 🚀 Informations détaillées
