@@ -15,8 +15,6 @@
 
 *  **Nom** : Bailleux Thomas
 *  **Âge** : 33
-*  **Vie à** : Charleroi
-*  **Université** : Non.
             
 ##  Quelques lignes sur moi
 * J'ai commencé à coder en utilisant **Php sous Nuked Klan** à l'âge de 12 - 13 ans en modifiant les petits addons jusqu'à créer le mien qui était une bannière de **Tournoi** 
