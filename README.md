@@ -14,7 +14,7 @@
  ## 🚀 Informations détaillées
 
 *  **Nom** : Bailleux Thomas
-*  **Âge** : 31
+*  **Âge** : 33
 *  **Vie à** : Charleroi
 *  **Université** : Non.
             
